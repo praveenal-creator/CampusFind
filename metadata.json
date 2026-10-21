@@ -1,0 +1,6 @@
+{
+  "name": "CampusFind",
+  "description": "Collegiate lost and found network with explainable smart matching, secure challenge verification, private messaging, and safe campus handover.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
